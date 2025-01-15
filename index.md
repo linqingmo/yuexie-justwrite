@@ -8,7 +8,7 @@ hero:
   actions:
     - theme: brand
       text: 悦写
-      link: /product/yuexie
+      link: ./product/yuexie
 
 features:
   - title: 安全

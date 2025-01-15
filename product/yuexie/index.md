@@ -32,11 +32,11 @@ title: 产品介绍
 - [x]  投稿记录
 
 
-### [隐私政策](./privacy.md) {.privacy}
+### [隐私政策](./privacy) {.privacy}
 
-### [使用条款](./usage.md)
+### [使用条款](./usage)
 
-### [帮助手册](./help.md)
+### [帮助手册](./help)
 
 <style>
 .privacy {

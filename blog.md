@@ -9,7 +9,7 @@ const blogs = [
     title: '关于悦写App',
     summary: '市面上已经有那么多写作App了，为什么我还要开发一款新的写作App?',
     publishedDate: '2025-01-15',
-    url: '/blog/start',
+    url: './blog/start',
     }
 ];
 </script>
