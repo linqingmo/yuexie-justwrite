@@ -21,5 +21,6 @@ export default defineConfig({
   },
   head: [
     ['link', { rel: 'icon', type: 'image/png', href: '/favico.png' }]
-  ]
+  ],
+  base: '/yuexie-justwrite/',
 })
