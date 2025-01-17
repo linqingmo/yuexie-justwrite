@@ -11,16 +11,17 @@ export default defineConfig({
         text: '产品',
         items: [
           { text: '悦写', link: '/product/yuexie' },
+          { text: '文笔', link: '/product/essay' },
         ]
       },
       { text: '博客', link: '/blog' },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      // { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: 'favicon.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: '/yuexie-justwrite/favicon.png' }]
   ],
   base: '/yuexie-justwrite/',
 })

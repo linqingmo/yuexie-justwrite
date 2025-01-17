@@ -31,16 +31,8 @@ title: 产品介绍
 - [x]  写作记录
 - [x]  投稿记录
 
+## 相关链接
 
-### [隐私政策](./privacy) {.privacy}
-
-### [使用条款](./usage)
-
-### [帮助手册](./help)
-
-<style>
-.privacy {
-    border-top: 1px solid var(--vp-c-divider);
-    padding-top: 24px;
-}
-</style>
+- [隐私政策](./privacy)
+- [使用条款](./usage)
+- [帮助手册](./help)

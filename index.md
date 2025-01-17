@@ -9,6 +9,9 @@ hero:
     - theme: brand
       text: 悦写
       link: ./product/yuexie
+    - theme: brand
+      text: 文笔
+      link: ./product/essay
 
 features:
   - title: 安全
