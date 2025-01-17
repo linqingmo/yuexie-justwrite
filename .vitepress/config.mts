@@ -20,7 +20,7 @@ export default defineConfig({
     ]
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: 'favico.png' }]
+    ['link', { rel: 'icon', type: 'image/png', href: 'favicon.png' }]
   ],
   base: '/yuexie-justwrite/',
 })
