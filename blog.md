@@ -17,6 +17,12 @@ const blogs = [
     publishedDate: '2025-01-17',
     url: './blogs/new-version',
     },
+    {
+    title: '悦写近期更新',
+    summary: '悦写更新了模板功能',
+    publishedDate: '2025-03-20',
+    url: './blogs/recent-updates',
+    },
 ];
 </script>
 
